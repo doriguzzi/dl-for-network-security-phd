@@ -77,6 +77,7 @@ def main(argv):
 
         for model_path in model_list:
             model = load_model(model_path)
+            print (model.summary())
             model_filename = model_path.split('/')[-1].split('.')[0]
             for dataset_file in dataset_filelist:
                 dataset_filename = dataset_file.split('/')[-1].split('.')[0]

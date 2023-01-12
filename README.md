@@ -5,7 +5,7 @@ Network intrusions and computer attacks can have severe consequences for both bu
 This repository contains a series of labs that guide students and practitioners through the hands-on implementation of DL-based systems for network intrusion and anomaly detection. It covers topics such as the analysis of malicious network traffic, the design and optimization of neural network models, and the practical challenges of deploying these systems in real-world settings.
 
 ## Table of Contents
-1. Simple test of DDoS attack detection with a convolutional neural network
+1. Simple test of DDoS attack detection with pre-trained neural networks
 
 
 ## Requirements
