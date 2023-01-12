@@ -39,7 +39,7 @@ Activate the new ```phdcourse ``` environment:
 conda activate phdcourse
 ```
 
-Install Tensorflow 2.7.0. In a Linux OS:
+Install Tensorflow. In a Linux OS:
 
 ```
 (phdcourse)$ pip3 install tensorflow 
