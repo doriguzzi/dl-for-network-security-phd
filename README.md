@@ -8,6 +8,7 @@ This repository contains a series of labs that guide students and practitioners 
 1. Simple test of DDoS attack detection with pre-trained neural networks
 2. Training DL models for DDoS attack detection 
 3. Hyperparameter tuning
+4. Feature analysis
 
 
 ## Requirements
