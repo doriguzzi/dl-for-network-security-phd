@@ -1,6 +1,6 @@
 # Datasets
 
-The datasets in these folders are provided by the Canadian Institute for Cybersecurity of the University of New Brunswick (UNB). 
+Some of the datasets in these folders are provided by the Canadian Institute for Cybersecurity of the University of New Brunswick (UNB). 
 
 These and other datasets are publicly available on the [UNB website](https://www.unb.ca/cic/datasets/index.html). Here we only provide a small subset of them.
 
