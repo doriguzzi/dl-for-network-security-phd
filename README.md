@@ -11,6 +11,7 @@ This repository contains a series of labs that guide students and practitioners 
 4. Feature analysis
 5. System deployment
 6. Anomaly detection with autoencoders
+7. Adversarial Machine Learning (evasion)
 
 
 ## Requirements
