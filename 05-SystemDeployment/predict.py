@@ -18,6 +18,9 @@ import argparse
 import random as rn
 import os
 import pprint
+import warnings
+
+warnings.filterwarnings('ignore')
 from traffic_processing import *
 from sklearn.metrics import f1_score, accuracy_score,confusion_matrix
 
